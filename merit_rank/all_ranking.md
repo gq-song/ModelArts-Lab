@@ -740,6 +740,12 @@
      * 扩展案例：
      * 实际应用案例：
      * 微认证： 
+* yushutong：1个积分，贡献点：
+     * 完成案例：[第一期](https://github.com/huaweicloud/ModelArts-Lab/issues/49#issuecomment-515746257)
+     * 体验文章：
+     * 扩展案例：
+     * 实际应用案例：
+     * 微认证：
      
 
 <B>共计104位参与者</B>
